@@ -5,4 +5,4 @@ This portfolio will be updated as files are located and moved uploaded.
 A Game Development major who specializes in computer programming.
 Experience in C++, C#, Java, and Python.
 
-Contact me at nContrerasContact@gmail.com for professional needs.
+Contact me at nContrerasDev@gmail.com for professional needs.
